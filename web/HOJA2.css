@@ -1,0 +1,79 @@
+@import url(http://fonts.googleapis.com/css?family=Metal+Mania);
+@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+
+
+
+
+
+header{ text-align: center;
+		
+		font-family:"Metal Mania",solid;
+		font-size: 200%;
+		text-shadow: 0.050em 0.050em red;
+
+		margin-right:45% ;
+        margin-left:45% ;
+        margin-bottom:-3%; 
+        margin-top:-3%;
+
+
+		
+
+		
+		          		
+
+		
+		
+}
+
+
+a{color: white;}
+div h2 {
+
+    
+	text-align: center;
+	margin: 1px;
+	margin-right:25% ;
+    margin-left:25% ; 
+	background-color: transparent;
+	box-shadow: 0px 5px 10px 10px;
+	text-shadow: 0.1em 0.1em red;
+
+	
+
+	
+	
+	
+}
+
+
+body {
+     
+    background-image: url("TourDates.jpg");
+    background-size: 100%;
+    background-color: #cccccc;
+    
+    
+}
+#tabla{
+
+	    text-align: center;
+		font-size: 150%;
+		width:10%;
+		margin:1px 25%;
+		margin-top: 2%;
+}
+tr{
+	    
+		
+		font-family:"Metal Mania",solid;
+		font-size: 200%;
+		text-shadow: 0.050em 0.050em red;
+}
+
+#reng{
+
+	border:3px inset;
+	box-shadow: 0px 5px 10px 10px;
+	  
+}

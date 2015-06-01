@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ANGRY</title>
+  <link rel="stylesheet" type="text/css" href="HOJA5.css">
+  <script src="js/jquery-1.11.0.min.js"></script>
+  <script src="js/lightbox.min.js"></script>
+  <link href="css/lightbox.css" rel="stylesheet" />
+</head>
+
+<div><body>
+	<HEADER><h1>ANGRY</h1></HEADER>
+
+	<div><h2><a href="Angry.html">Inicio</a>-<a href="TourDates.html">TourDates</a>-<a href="Informacion.html">Informacion</a>-<a href="Galeria.html">Galeria</a>-<a href="Reg.html">Registro</a></h2></div>
+	
+	</div>
+
+	<form name="form1" action="pdf.php" method="POST">
+	<div >
+		<div id="Cabeza">
+			<strong>Datos personales</strong>
+		</div>
+		<div id="Tabla">
+			<table>
+				<tr>
+					<td align="right">Nombre:</td>
+					<td><input type="text" name="nom" /></td>
+				</tr>
+				<tr>
+					<td align="right">Direccion:</td>
+					<td><input type="text" name="dir" /></td>
+				</tr>
+				<tr>
+					<td align="right">Edad:</td>
+					<td><input type="text" name="edad" /></td>
+				</tr>
+				<tr>
+					<td align="right">Correo electronico:</td>
+					<td><input type="text" name="email" /></td>
+				</tr>
+				<tr>
+					<td align="right">Sexo:</td>
+					<td>
+						M<input type="radio" name="sexo" value="Masculino">
+						F<input type="radio" name="sexo" value="Femenino">
+					</td>
+				</tr>
+			</table>
+
+	<input type="submit" value="Ver tu PDF ?">
+</form>
+</body>
+</html>

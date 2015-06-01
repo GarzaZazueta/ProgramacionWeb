@@ -1,0 +1,101 @@
+@import url(http://fonts.googleapis.com/css?family=Metal+Mania);
+@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+
+
+
+
+header{ text-align: center;
+		
+		font-family:"Metal Mania",solid;
+		font-size: 200%;
+		text-shadow: 0.050em 0.050em red;
+
+		margin-right:45% ;
+        margin-left:45% ;
+        margin-bottom:-3%; 
+        margin-top:-3%;
+
+
+		
+
+		
+		          		
+
+		
+		
+}
+
+
+a{color: white;}
+div h2 {
+
+    
+	text-align: center;
+	margin: 1px;
+	margin-right:25% ;
+    margin-left:25% ; 
+	background-color: transparent;
+	box-shadow: 0px 5px 10px 10px;
+	text-shadow: 0.1em 0.1em red;
+
+	
+
+	
+	
+	
+}
+
+
+#tabla{
+		text-align: center;
+		float: left;
+		font-size: 150%;
+		width:10%;
+
+}
+
+#uno{
+	border:2px solid; margin:1px auto;
+	box-shadow: 0px 5px 10px 10px;
+	background-color: black;
+	
+
+}
+#cabeza{
+	text-align: center;
+
+}
+#hh{
+	
+	
+	text-shadow: 0.050em 0.050em red;
+    font-size: 150%;
+    font-family: "Metal Mania",solid;
+    margin-bottom: 1%;
+}
+
+
+#video{
+	    margin-top: 5%;
+		text-align: center;
+		float: right;
+		box-shadow: 1px 2px 8px 8px
+		
+
+}
+
+#inicio {
+     
+    background-image: url("Angry.jpg");
+    background-size: 100%;
+    background-color: #cccccc;
+    
+    
+}
+iframe{
+	width:420px;  height:315px;
+}
+
+
+		
